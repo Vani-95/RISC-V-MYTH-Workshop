@@ -1,4 +1,4 @@
-# Day 4 - RISC-V Labs
+# Day 4 - RISC-V MYTH Labs
 
 - Fetch Lab: [View on Makerchip Sandbox 🔗] (https://makerchip.com/sandbox/0ERfWh4J8/0GZhJwW#)
 - Decode Instructions Lab: [View on Makerchip Sandbox 🔗] (https://makerchip.com/sandbox/0ERfWh4J8/0JZh8xQ#)
